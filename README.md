@@ -547,7 +547,7 @@ aws-ec2-scheduler-automation/
 ├── lambda_stop.py
 ├── policy.json
 ├── README.md
-└── screenshots/
+
 ```
 
 ---
